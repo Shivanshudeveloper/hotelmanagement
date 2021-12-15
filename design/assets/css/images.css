@@ -1,0 +1,14 @@
+.images {
+    height: 20rem;
+}
+
+.top-images {
+    object-fit: cover;
+    height: 40rem;
+}
+
+@media (max-width: 992px) { 
+    .top-images{
+        height: 20rem;
+    }
+}
